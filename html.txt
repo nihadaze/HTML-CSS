@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    </head>
+<h1 class="heading">Jira</h1>
+<body>
+<h2>What Is Jira?</h2>
+<p>Jira is a software application used for issue tracking and project management. The tool, developed by the Australian software company Atlassian, has become widely used by agile development teams to track bugs, stories, epics, and other tasks.</p>
+<img class="alignleft size-full wp-image-10166" src="https://www.productplan.com/uploads/jira-sync.png" alt="" width="972" height="642" srcset="https://www.productplan.com/uploads/jira-sync.png 972w, https://www.productplan.com/uploads/jira-sync-300x198.png 300w" sizes="(max-width: 972px) 100vw, 972px">
+<h2>What Is the History of Jira?</h2>
+<p>Atlassian introduced Jira in 2002 as an issue-tracking tool for software companies.</p>
+<p>Fun fact: Atlassian named its product after “Gojira,” which means Godzilla in Japanese. The idea for the name came about because, before they developed the tool, Atlassian’s coders used a bug-tracking software tool called Bugzilla.</p>
+<h2>What Types of Teams Use It Today?</h2>
+<p>As it grew in popularity and as the agile development methodology became more widely used by software companies, Atlassian expanded the Jira platform to offer services to different teams. Today, it provides several internal products, including:</p>
+<h3>Jira Core</h3>
+<p>This is the platform’s basic project-management tool, designed for <strong>non-technical teams</strong>. Departments such as HR, marketing, finance, and operations use the Core tool for change requests, workflow approvals, and general task management.</p>
+<h3>Jira Software</h3>
+<p>This is the version designed for <strong>software development teams</strong>. Jira Software offers all of Core’s features but also includes agile functionality. Software teams use this tool for bug tracking, managing basic software-development tasks, and product management.</p>
+<p>Note: Jira Software is also designed to support development teams that use Kanban, Scrum, and other <a href="https://www.productplan.com/glossary/agile-framework/" target="_blank" rel="noopener noreferrer">popular agile frameworks</a>.</p>
+<h3>Jira Service Desk</h3>
+<p>This is an add-on developed for<strong> IT teams</strong>. Call center managers, helpdesk agents, and other support professionals use Jira Service Desk for issue ticketing, incident management, and change management.</p>
+</body>
+</html>
